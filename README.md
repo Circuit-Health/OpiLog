@@ -69,7 +69,8 @@ opilog/
     ├── Main.elm               # Elm UI, application state, and view logic
     ├── Ports.elm              # Elm-to-JS interop port definitions
     ├── Types.elm              # Domain models (Bolus, Patch, WindowMetrics)
-    └── index.ts               # TypeScript entry point & SQLite lifecycle'''
+    └── index.ts               # TypeScript entry point & SQLite lifecycle
+```
 
 ## Disclaimer
 
